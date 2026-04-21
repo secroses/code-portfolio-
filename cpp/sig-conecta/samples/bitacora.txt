@@ -1,0 +1,35 @@
+====================================================
+   BITACORA SIG-CONECTA: San Pedro de la Montana   
+====================================================
+
+--- ESTADOS DE EQUIPOS ---
+EQUIPO_1: Libre
+EQUIPO_2: Libre
+EQUIPO_3: Ocupada
+EQUIPO_4: Libre
+EQUIPO_5: Mantenimiento
+EQUIPO_6: Libre
+EQUIPO_7: Libre
+EQUIPO_8: Libre
+EQUIPO_9: Libre
+EQUIPO_10: Libre
+EQUIPO_11: Libre
+EQUIPO_12: Libre
+EQUIPO_13: Libre
+EQUIPO_14: Libre
+EQUIPO_15: Libre
+EQUIPO_16: Libre
+EQUIPO_17: Libre
+EQUIPO_18: Libre
+EQUIPO_19: Libre
+EQUIPO_20: Libre
+
+--- INCIDENTES REGISTRADOS ---
+
+EQUIPO: 5
+HORA: 10
+TIPO: Falla de hardware
+DESCRIPCION: La Pantalla no enciende
+----------------------------------------------------
+
+Total de incidentes: 1
